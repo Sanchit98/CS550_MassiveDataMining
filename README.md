@@ -3,7 +3,7 @@ Massive Data Mining 2023
 
 Coursework for CS550 : Massive Data Mining.
 
-Assignements include:
+Assignements include:<br>
 Map-Reduce, Association Rules, Locality-Sensitive Hashing (LSH)<br>
 Singular Value Decomposition (SVD), Page Rank, k-means<br>
 Modularity, Spectral Clustering, Clique-based communities<br>
